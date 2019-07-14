@@ -1,0 +1,26 @@
+.page-title {
+    position: absolute;
+    top: 50px;
+    left: 0;
+    padding: 5px 20px;
+    /* border: 1px solid red; */
+}
+
+.content {
+    margin: 80px auto 20px;
+    width: 100%;
+    padding: 10px;
+    /* border: 1px solid red; */
+}
+
+.span-red-big {
+    font-size: 1.3em;
+    font-weight: 500;
+    color: red;
+}
+
+.span-blue{
+    font-size: 1.2em;
+    font-weight: 500;
+    color: blue;
+}
